@@ -48,12 +48,12 @@ I build end-to-end projects that transform raw data into meaningful insights and
 
 ---
 
-###  2. End-to-End ML Pipeline  
-- Built a complete ML pipeline using preprocessing + modeling  
-- Used Column Transformer and Pipeline for automation  
-- Applied best practices for scalable ML workflows  
+###  2. Loan Default Risk Prediction  
+- Built a machine learning model to predict loan default risk using customer financial data  
+- Performed data cleaning, EDA, and feature engineering to improve model performance  
+- Applied multiple models and optimized performance using hyperparameter tuning (GridSearchCV, RandomizedSearchCV)  
 
- **Key Skills:** Pipeline, Automation, Clean Code  
+**Key Skills:** Machine Learning, Classification, Feature Engineering, Model Tuning, XGBoost, Random Forest, Scikit-learn    
 
 ---
 
