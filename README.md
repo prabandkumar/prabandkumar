@@ -93,4 +93,4 @@ I build end-to-end projects that transform raw data into meaningful insights and
 
 ##  Final Note  
 
-  Data is not just numbers — it’s a story waiting to be told. I aim to uncover that story and turn it into impact.
+  Data is not just numbers, it’s a story waiting to be told. I aim to uncover that story and turn it into impact.
