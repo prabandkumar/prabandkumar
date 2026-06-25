@@ -1,96 +1,128 @@
-  # Hi, I'm Praband Kumar  
+# Praband Kumar
 
- Passionate **Data professional** with a strong foundation in **Machine Learning, Statistics, and Data-Driven Problem Solving**.  
-I build end-to-end projects that transform raw data into meaningful insights and business decisions.
+AI Engineer | Machine Learning | Deep Learning
 
----
+I build end-to-end AI systems that solve practical problems using machine learning, deep learning, and large language models. I enjoy working across the entire pipeline—from data preparation and model development to deployment and user-facing applications.
 
-##  About Me  
+I particularly enjoy solving concrete problems with neural networks and building intelligent systems that create measurable impact.
 
--  Passionate about solving real-world problems using data  
--  Skilled in **Machine Learning, Data Analysis, and Visualization**  
--  Strong understanding of **end-to-end ML pipelines**  
--  Focused on delivering **actionable insights, not just models**  
+## About Me
 
----
+* Strong foundation in machine learning, statistics, and data analysis.
+* Experience building production-style AI applications and end-to-end ML workflows.
+* Interested in deep learning, natural language processing, computer vision, and agentic systems.
+* Focused on understanding the problem before selecting models or technologies.
+* Committed to building reproducible, maintainable, and business-oriented solutions.
 
-##  Tech Stack  
+## Technical Skills
 
-**Languages & Libraries:**  
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+### Programming
 
-**Machine Learning:**  
-- Regression, Classification, Clustering (KMeans) , Random Forest, XGboost 
-- Model Evaluation (Accuracy, Precision, Recall, F1-score)  
+* Python
+* SQL
 
-**Data Processing:**  
-- Data Cleaning, Feature Engineering  
-- Handling Missing Values & Outliers  
-- Encoding & Scaling (StandardScaler, MinMaxScaler)
+### Data and Analytics
 
-**Advanced Excel** , **SQL** , **PowerBI**
+* Pandas
+* NumPy
+* Power BI
 
-**Tools & Platforms:**  
-- Jupyter Notebook  
-- Git & GitHub  
-- Excel / MySQL  
+### Machine Learning
 
----
+* Regression and Classification
+* Clustering and Customer Segmentation
+* Random Forest
+* XGBoost
+* Support Vector Machines
+* K-Nearest Neighbors
+* Feature Engineering
+* Hyperparameter Optimization
+* Statistical Analysis and Hypothesis Testing
 
-##  Featured Projects  
+### Deep Learning and AI
 
-###  1. A/B Testing Analysis  
-- Analyzed experiment data to compare control vs treatment groups  
-- Derived insights on conversion rate and revenue impact  
-- Applied statistical thinking to business decisions  
+* TensorFlow
+* Keras
+* Convolutional Neural Networks
+* Natural Language Processing
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models
+* Multi-Agent Systems
 
- **Key Skills:** Hypothesis Testing, Data Analysis, Business Insights  
+### Tools
 
----
+* Git and GitHub
+* Jupyter Notebook
+* VS Code
+* MySQL
+* Streamlit
+* LangChain
+* FAISS
+* Ollama
+* Groq API
 
-###  2. Loan Default Risk Prediction  
-- Built a machine learning model to predict loan default risk using customer financial data  
-- Performed data cleaning, EDA, and feature engineering to improve model performance  
-- Applied multiple models and optimized performance using hyperparameter tuning (GridSearchCV, RandomizedSearchCV)  
+## Featured Projects
 
-**Key Skills:** Machine Learning, Classification, Feature Engineering, Model Tuning, XGBoost, Random Forest, Scikit-learn    
+### RAG-Powered Restaurant Assistant
 
----
+Built a domain-specific conversational assistant using Retrieval-Augmented Generation. Implemented FAISS vector search, local embeddings with Ollama, and Groq-hosted LLMs to provide accurate, context-aware responses through a Streamlit application.
 
-### 3. Customer Behavior Analytics  
-- Analyzed customer data to understand purchasing patterns and user behavior  
-- Performed EDA, data cleaning, and customer segmentation using Python and SQL  
-- Built interactive Power BI dashboard to visualize insights for business decisions  
-
-**Key Skills:** Python, SQL, Power BI, EDA, Customer Segmentation, Business Insights  
- 
-
----
-
-## What Makes Me Different  
-
- I focus on **understanding the problem before applying models**  
- I build **clean, structured, and reproducible projects**  
- I explain insights in a **simple, business-friendly way**  
- I continuously learn and improve through hands-on projects  
+**Technologies:** Python, LangChain, FAISS, Ollama, Groq, Streamlit
 
 ---
 
-## Currently Learning  
+### Multi-Agent Financial Intelligence System
 
-- Deep Learning 
-- NLP, Computer Vision      
-- Model Deployment (Streamlit / Flask)  
+Developed a collaborative AI agent framework consisting of specialized web and finance agents capable of tool usage, information retrieval, and financial analysis using real-time market data.
 
----
-
-##  Connect With Me  
-
--  LinkedIn: https://www.linkedin.com/in/praband-kumar-t-40405a3b0/
--  Email: praband10@gmail.com 
+**Technologies:** Phi Framework, Groq, DuckDuckGo, Yahoo Finance, Agent Orchestration
 
 ---
 
-##  Final Note  
+### AI News Event Clustering System
 
-  Data is not just numbers, it’s a story waiting to be told. I aim to uncover that story and turn it into impact.
+Designed an NLP pipeline to discover and group related news events using sentence embeddings and unsupervised learning techniques. Generated event timelines and automated labeling for improved information discovery.
+
+**Technologies:** Python, NLP, Sentence Embeddings, Scikit-learn, Clustering
+
+---
+
+### Loan Default Risk Prediction
+
+Built an end-to-end machine learning pipeline for predicting customer loan default risk, including data preprocessing, feature engineering, model selection, and hyperparameter optimization.
+
+**Technologies:** Python, Scikit-learn, XGBoost, Random Forest
+
+---
+
+### Rice Leaf Disease Detection
+
+Implemented deep learning models for plant disease classification and evaluated custom CNN architectures alongside transfer learning approaches.
+
+**Technologies:** TensorFlow, Keras, Computer Vision
+
+---
+
+### Customer Behavior Analytics
+
+Analyzed customer purchasing patterns and developed interactive dashboards to support data-driven business decisions and customer segmentation.
+
+**Technologies:** Python, SQL, Power BI
+
+## Areas of Interest
+
+* Deep Learning
+* Neural Networks
+* Large Language Models
+* Retrieval-Augmented Generation
+* Agentic AI Systems
+* Natural Language Processing
+* Computer Vision
+* AI Application Development
+* MLOps and Deployment
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/praband-kumar-t-40405a3b0
+
+Email: [praband10@gmail.com](mailto:praband10@gmail.com)
