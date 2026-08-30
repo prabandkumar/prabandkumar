@@ -1,18 +1,22 @@
-# Praband Kumar
+<div align="center">
+  <h1>Hi there, I'm Praband Kumar!</h1>
+</div>
 
-AI Engineer | Machine Learning | Deep Learning
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=1000&lines=AI+Engineer+Intern;Building+Agentic+AI+and+RAG+Pipelines;IABAC+Certified+AI+Engineer;Optimizing+Decision+Making+with+Data" alt="Typing SVG" />
+  </a>
+</div>
 
-I build end-to-end AI systems that solve practical problems using machine learning, deep learning, and large language models. I enjoy working across the entire pipeline—from data preparation and model development to deployment and user-facing applications.
+<br/>
+
+<div align="center">
+  <p align="center">
+   I build end-to-end AI systems that solve practical problems using machine learning, deep learning, and large language models. I enjoy working across the entire pipeline—from data preparation and model development to deployment and user-facing applications.
 
 I particularly enjoy solving concrete problems with neural networks and building intelligent systems that create measurable impact.
-
-## About Me
-
-* Strong foundation in machine learning, statistics, and data analysis.
-* Experience building production-style AI applications and end-to-end ML workflows.
-* Interested in deep learning, natural language processing, computer vision, and agentic systems.
-* Focused on understanding the problem before selecting models or technologies.
-* Committed to building reproducible, maintainable, and business-oriented solutions.
+  </p>
+</div>
 
 ## Technical Skills
 
