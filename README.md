@@ -14,7 +14,7 @@
   <p align="center">
   I’m an early-career AI Engineer focused on building practical AI applications using Python, Generative AI, RAG, and Agentic AI.
 
-I build end-to-end systems spanning LLM applications, retrieval pipelines, AI agents, machine learning, and deep learning—from data processing and model development to deployment and user-facing applications.
+I build end-to-end systems spanning LLM applications, retrieval pipelines, AI agents, machine learning, and deep learning - from data processing and model development to deployment and user-facing applications.
 
 I’m currently focused on building production-oriented AI systems and contributing to open-source projects.
 
@@ -127,7 +127,7 @@ tutorial.
 
 ## Experience
 
-### AI Engineer Intern — Rubixe AI Solutions
+### AI Engineer Intern - Rubixe AI Solutions
 Oct 2025 – Present
 
 Working on practical machine learning, deep learning, Generative AI,
