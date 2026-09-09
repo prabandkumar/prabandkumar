@@ -12,7 +12,7 @@
 
 <div align="center">
   <p align="center">
-  I’m an early-career AI Engineer focused on building practical AI applications using Python, Generative AI, RAG, and Agentic AI.
+  I’m an AI Engineer focused on building practical AI applications using Python, Generative AI, RAG, and Agentic AI.
 
 I build end-to-end systems spanning LLM applications, retrieval pipelines, AI agents, machine learning, and deep learning - from data processing and model development to deployment and user-facing applications.
 
@@ -67,11 +67,15 @@ I particularly enjoy solving concrete problems with neural networks and building
 
 ## Featured Projects
 
-### RAG-Powered Restaurant Assistant
+# RAG-Powered Restaurant Assistant
 
-Built a domain-specific conversational assistant using Retrieval-Augmented Generation. Implemented FAISS vector search, local embeddings with Ollama, and Groq-hosted LLMs to provide accurate, context-aware responses through a Streamlit application.
+A domain-specific conversational AI assistant built with Retrieval-Augmented Generation (RAG). The system retrieves relevant information from a FAISS vector database using Gemini embeddings and uses a Groq-hosted LLM to generate grounded responses based on the retrieved context.
 
-**Technologies:** Python, LangChain, FAISS, Ollama, Groq, Streamlit
+The application is built with LangChain and Streamlit, demonstrating an end-to-end RAG pipeline from document ingestion and vector indexing to semantic retrieval and LLM-powered response generation.
+
+**Technologies:** Python, LangChain, FAISS, Gemini Embeddings, Groq, Streamlit
+
+[🔗 View Project](https://github.com/prabandkumar/prabs-cafe-rag)
 
 ---
 
@@ -81,6 +85,7 @@ Developed a collaborative AI agent framework consisting of specialized web and f
 
 **Technologies:** Phi Framework, Groq, DuckDuckGo, Yahoo Finance, Agent Orchestration
 
+
 ---
 
 ### AI News Event Clustering System
@@ -89,6 +94,7 @@ Designed an NLP pipeline to discover and group related news events using sentenc
 
 **Technologies:** Python, NLP, Sentence Embeddings, Scikit-learn, Clustering
 
+[🔗 View Project](https://github.com/prabandkumar/AI-news-event-tracker.git)
 
 ---
 
@@ -100,6 +106,8 @@ weighting to improve minority-class detection and deployed the model
 through a Streamlit application.
 
 **Technologies:** Python, TensorFlow, EfficientNetB0, Streamlit
+
+[🔗 View Project](https://github.com/prabandkumar/retinopathy_disease_classification.git)
 
 ---
 ## Open Source Contributions
@@ -135,6 +143,6 @@ RAG, and AI agent applications using Python and modern AI frameworks.
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/praband-kumar-t-40405a3b0
+LinkedIn: https://www.linkedin.com/in/praband-kumar/
 
 Email: [praband10@gmail.com](mailto:praband10@gmail.com)
