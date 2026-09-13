@@ -112,15 +112,12 @@ through a Streamlit application.
 ---
 ## Open Source Contributions
 
+## Open Source Contributions
+
 ### Optiland
-
-Contributed to the Optiland open-source project by identifying and
-correcting an incorrect derivative formula in the Custom Surface Types
-tutorial.
-
-- Submitted GitHub PR #752
-- Numerically verified the corrected derivatives
-- Passed automated repository checks
+- Resolved an analytical error in the custom surface normal computation and corrected the corresponding tutorial implementation.
+- Updated the mathematical formulation and visualization to keep the documentation consistent with the corrected implementation.
+- [PR #752](https://github.com/optiland/optiland/pull/752) — **Merged**
 
 
 ## Areas of Interest
