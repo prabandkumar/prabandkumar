@@ -79,12 +79,13 @@ The application is built with LangChain and Streamlit, demonstrating an end-to-e
 
 ---
 
-### Multi-Agent Financial Intelligence System
+### AI Financial Research Agent
 
-Developed a collaborative AI agent framework consisting of specialized web and finance agents capable of tool usage, information retrieval, and financial analysis using real-time market data.
+Developed an AI-powered financial research agent that combines deterministic query routing, financial data retrieval, web research, and LLM-based synthesis to generate structured company research reports.
 
-**Technologies:** Phi Framework, Groq, DuckDuckGo, Yahoo Finance, Agent Orchestration
+**Technologies:** Python, Phidata, Groq, GPT-OSS-20B, Yahoo Finance, DuckDuckGo (DDGS), Streamlit
 
+[🔗 View Project](https://github.com/prabandkumar/AI-Financial-Research-Agent)
 
 ---
 
